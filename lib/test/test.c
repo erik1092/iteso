@@ -3,6 +3,6 @@
 #include<stdio.h>
 
 int test(void){
-return 1;
+return 0;
 }
 
